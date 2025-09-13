@@ -77,4 +77,4 @@ This project is licensed under the ISC License.
 ## Contact
 
 Sagar Hodar
-Email: hsosdr@gmail.com
+Email: hodarsagar@gmail.com
