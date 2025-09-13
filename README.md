@@ -10,6 +10,36 @@ To get this project up and running on your local machine, follow these steps:
 
 ### Steps
 
+1.  **Project File Folder Structure for installation:**
+    ```bash
+    data-analysis-app
+    ├── 2.zip
+    ├── Project Folder Structure.py
+    ├── Project Folder Structure.txt
+    ├── data01.csv
+    ├── data02.csv
+    ├── index.html
+    ├── package.json
+    ├── postcss.config.js
+    ├── src/
+    │   ├── 1.zip
+    │   ├── App.jsx
+    │   ├── components/
+    │   │   ├── AnalysisResults.jsx
+    │   │   ├── ColumnMapping.jsx
+    │   │   ├── DataPreview.jsx
+    │   │   ├── FileUpload.jsx
+    │   │   └── FilterAnalysis.jsx
+    │   ├── index.css
+    │   ├── main.jsx
+    │   └── utils/
+    │       ├── csvParser.js
+    │       ├── dataCompare.js
+    │       └── fileDownload.js
+    ├── tailwind.config.js
+    └── vite.config.js
+    ```
+
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/your-username/data-analysis-app.git
