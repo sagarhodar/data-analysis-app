@@ -1,0 +1,26 @@
+c:\SAGAR\CODING\VITE\data-analysis-app
+├── 2.zip
+├── Project Folder Structure.py
+├── Project Folder Structure.txt
+├── data01.csv
+├── data02.csv
+├── index.html
+├── package.json
+├── postcss.config.js
+├── src/
+│   ├── 1.zip
+│   ├── App.jsx
+│   ├── components/
+│   │   ├── AnalysisResults.jsx
+│   │   ├── ColumnMapping.jsx
+│   │   ├── DataPreview.jsx
+│   │   ├── FileUpload.jsx
+│   │   └── FilterAnalysis.jsx
+│   ├── index.css
+│   ├── main.jsx
+│   └── utils/
+│       ├── csvParser.js
+│       ├── dataCompare.js
+│       └── fileDownload.js
+├── tailwind.config.js
+└── vite.config.js
