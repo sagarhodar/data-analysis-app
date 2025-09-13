@@ -13,16 +13,10 @@ To get this project up and running on your local machine, follow these steps:
 1.  **Project File Folder Structure for installation:**
     ```bash
     data-analysis-app
-    ├── 2.zip
-    ├── Project Folder Structure.py
-    ├── Project Folder Structure.txt
-    ├── data01.csv
-    ├── data02.csv
     ├── index.html
     ├── package.json
     ├── postcss.config.js
     ├── src/
-    │   ├── 1.zip
     │   ├── App.jsx
     │   ├── components/
     │   │   ├── AnalysisResults.jsx
